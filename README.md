@@ -1,29 +1,28 @@
 # README #
 
-This README would normally document whatever steps are necessary to get your application up and running.
 
-### What is this repository for? ###
+### Projekt aplikacji mobilnej ###
 
-* Quick summary
-* Version
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
+Głównym założeniem projektu jest stworzenie aplikacji mobilnej umożliwiającej adopcję kotów np. ze schroniska.
 
-### How do I get set up? ###
+### Funkcje ###
 
-* Summary of set up
-* Configuration
-* Dependencies
-* Database configuration
-* How to run tests
-* Deployment instructions
+* katalog kotów
+* wygodny interfejs
+* system polubień dla kotów
+* udostępnianie kontaku
+* galeria zdjęć
+* opis kota
 
-### Contribution guidelines ###
+### dodatkowe funkcje ###
 
-* Writing tests
-* Code review
-* Other guidelines
+* system wiadomości
+* lokalizacja kota
+* udostępnianie ogłoszenia
 
-### Who do I talk to? ###
+### wykorzystane technologie ###
 
-* Repo owner or admin
-* Other community or team contact
+* Flutter
+* Dart
+* Firebase
+* Android studio
