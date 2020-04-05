@@ -26,3 +26,7 @@ Głównym założeniem projektu jest stworzenie aplikacji mobilnej umożliwiają
 * Dart
 * Firebase
 * Android studio
+
+# Raport 1 #
+
+Zapoznanie się ze środowiskiem flutter oraz poznanie języka Dart. Przygotowanie emulatora oraz stworzenie przykładowej aplikacji mobilnej. Na następny raport planuję stworzyć stronę wejściową aplikacji, przejście do schroniska oraz bazę dnaych zawierającą koty.
