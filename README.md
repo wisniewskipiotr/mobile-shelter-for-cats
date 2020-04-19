@@ -30,3 +30,7 @@ Głównym założeniem projektu jest stworzenie aplikacji mobilnej umożliwiają
 # Raport 1 #
 
 Zapoznanie się ze środowiskiem flutter oraz poznanie języka Dart. Przygotowanie emulatora oraz stworzenie przykładowej aplikacji mobilnej. Na następny raport planuję stworzyć stronę wejściową aplikacji, przejście do schroniska oraz bazę dnaych zawierającą koty.
+
+# Raport 2 #
+
+Stworzenie UI, strony wejściowej aplikacji, oraz klasy zawierającej dane o kotach
