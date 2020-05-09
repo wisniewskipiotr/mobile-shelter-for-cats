@@ -1,9 +1,9 @@
-import 'package:catadopt/UI/cat_list.dart';
+import 'package:catsadopt/UI/cat_list.dart';
 import 'package:flutter/material.dart';
 
 void main()async {
 
-runApp(new CatAdopt());
+  runApp(new CatAdopt());
 }
 
 
@@ -14,10 +14,12 @@ class CatAdopt extends StatelessWidget {
 
     return new MaterialApp(
       theme: new ThemeData(
-        primarySwatch: Colors.red,
-        accentColor: Colors.blueAccent),
+          primarySwatch: Colors.red,
+          accentColor: Colors.blueAccent,
+          fontFamily: 'Ubuntu'
+      ),
       home: new CatList(),
-      );
+    );
 
   }
 

@@ -33,4 +33,13 @@ Zapoznanie się ze środowiskiem flutter oraz poznanie języka Dart. Przygotowan
 
 # Raport 2 #
 
-Stworzenie UI, strony wejściowej aplikacji, oraz klasy zawierającej dane o kotach
+Stworzenie UI, strony wejściowej aplikacji. Stworzenie modelu ładowania kotów oraz ich danych oraz stworzeniei lokalnego pliku json z podstawowymi informacjami o kotach, czyli o lokalizacji, opis, zdjęcia itp. 
+
+# Raport 3 #
+
+Stworzenie wstępnego modelu baz danych, który będzie zawierał informację na temat kotów. Naprawienie błędnego pobierania danych z pliku cats.json. Próba importowania zdjęć kotów z serwera w sieci. Dodatkowo zostały pobrane i zaimportowane dodatkowe fonty służące do obsługi UI. Tworzenie interakcji oraz obsługi zdarzeń przy wejściach na profil wybranego kota
+
+# Raport 4 #
+
+Polepszenie interakcji, doskonalenie aplikacji, Spróbuję dodać możliwość polubień.
+

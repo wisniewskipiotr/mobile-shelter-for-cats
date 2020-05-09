@@ -1,4 +1,4 @@
-name: catadopt
+name: catsadopt
 description: choose a cat to adpot
 
 
@@ -18,3 +18,13 @@ flutter:
 
 
   uses-material-design: true
+
+  fonts:
+    - family: Ubuntu
+      fonts:
+        - asset: fonts/Ubuntu-Bold.ttf
+        - asset: fonts/Ubuntu-Regular.ttf
+
+
+  assets:
+    - assets/cats.json

@@ -1,0 +1,31 @@
+{
+  "cats": [
+    {
+      "id": 1,
+      "name": "Tosia",
+      "photos": [],
+      "location": "Wrocław",
+      "description": "cat description",
+      "adopted": true,
+      "image_url": ""
+    },
+    {
+      "id": 2,
+      "name": "Burek",
+      "photos": [],
+      "location": "Wrocław",
+      "description": "cat description",
+      "adopted": false,
+      "image_url": ""
+    },
+    {
+      "id": 3,
+      "name": "Ciapek",
+      "photos": [],
+      "location": "Wrocław",
+      "description": "cat description",
+      "adopted": true,
+      "image_url": ""
+    }
+  ]
+}
