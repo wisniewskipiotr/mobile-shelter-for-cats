@@ -9,6 +9,7 @@ class Cat {
   final String description;
   final String avatarUrl;
   final String location;
+  final int phoneCounter;
   final bool isAdopted;
 
   Cat({
@@ -17,6 +18,7 @@ class Cat {
     @required this.photos,
     @required this.description,
     @required this.avatarUrl,
+    @required this.phoneCounter,
     @required this.location,
     @required this.isAdopted,
 

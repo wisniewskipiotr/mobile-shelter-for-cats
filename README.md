@@ -39,7 +39,7 @@ Stworzenie UI, strony wejściowej aplikacji. Stworzenie modelu ładowania kotów
 
 Stworzenie wstępnego modelu baz danych, który będzie zawierał informację na temat kotów. Naprawienie błędnego pobierania danych z pliku cats.json. Próba importowania zdjęć kotów z serwera w sieci. Dodatkowo zostały pobrane i zaimportowane dodatkowe fonty służące do obsługi UI. Tworzenie interakcji oraz obsługi zdarzeń przy wejściach na profil wybranego kota
 
-# Raport 4 #
+# Raport 4 - Prototyp#
 
-Polepszenie interakcji, doskonalenie aplikacji, Spróbuję dodać możliwość polubień.
+Stworzenie prototypu aplikacji. Stworzony ogólny szkic aplikacji. Stworzenie nagłówków w szczegółach u kotów, upiększnie UI. Dodanie przycisków do adopcji lub wyświetlenia nr telefonu do danego kota. Stworznie galerii zdjęć. Następnie planuje całość przerzucić na firebase, oraz jeśli starczy czasu to stwozenie systemu wymiany wiadomości, lecz ze wstępnego rozenania może to być dość trudne. Spróbuje również dodać mapę z google do opisu googla jako dodatek
 

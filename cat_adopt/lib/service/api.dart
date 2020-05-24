@@ -13,7 +13,7 @@ class CatApi {
         externalId: map['id'],
         name: map['name'],
         description: map['description'],
-        avatarUrl: map['iamge_url'],
+        avatarUrl: map['image_url'],
         location: map['location'],
         isAdopted: map['adopted'],
         photos: new List <String>.from(map['photos']),
